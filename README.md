@@ -76,6 +76,9 @@ This Power BI project aims to create a comprehensive dashboard that provides an 
 **Clear Labels:**
 - Ensure that all visualizations have clear and descriptive labels, titles, and legends.
 
+## Dashboard Example
+![Global Terrorism Analysis](/Users/apostle/Desktop/Intern Career/TERRORISIM DASHBOARD PICS.JPG)
+
 ## Conclusion
 This Power BI dashboard will provide a powerful tool for analyzing and understanding global terrorism trends. By following the steps outlined in this README, you can create a comprehensive, interactive, and user-friendly dashboard that offers valuable insights into the patterns and impact of terrorism worldwide.
 
