@@ -1,6 +1,4 @@
 # Terrorism Database Dashboard
-![Global Terrorism Analysis](TERRORISIM%20DASHBOARD%20PICS.JPG)
-
 
 ## Project Overview
 This Power BI project aims to create a comprehensive dashboard that provides an overview of global terrorism trends and patterns. The dataset, known as the Terrorism Database, contains detailed information about terrorist attacks worldwide, including date, location, attack type, weapons used, number of casualties, and responsible groups. The goal is to visualize this data in a way that is informative, interactive, and user-friendly.
