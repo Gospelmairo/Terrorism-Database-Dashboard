@@ -77,7 +77,7 @@ This Power BI project aims to create a comprehensive dashboard that provides an 
 - Ensure that all visualizations have clear and descriptive labels, titles, and legends.
 
 ## Dashboard Example
-![Global Terrorism Analysis](path_to_your_image/TERRORISIM_DASHBOARD_PICS.JPG)
+![Global Terrorism Analysis](/Users/apostle/Desktop/Intern Career/Terrorism-Database-Dashboard/TERRORISIM DASHBOARD PICS.JPG)
 
 
 ## Conclusion
